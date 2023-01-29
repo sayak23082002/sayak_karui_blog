@@ -1,1 +1,1 @@
-# sayak_blog
+# sayak_karui_blog
